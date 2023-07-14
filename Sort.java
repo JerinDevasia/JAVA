@@ -40,7 +40,7 @@ public class Sort
         System.out.println("Strings in Sorted Order:");
         for (int i = 0; i <= count - 1; i++) 
         {
-            System.out.println(str[i] + ", ");
+            System.out.println(str[i] + " , ");
         }
     }
 } 
